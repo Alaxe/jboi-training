@@ -25,7 +25,7 @@ Petar Nyagolov and Alexander Crustev.
 [source-optimal]: http://lightoj.com/volume_showproblem.php?problem=1349
 [source-perminv]: http://hsin.hr/coci/archive/2006_2007/
 [source-edge]: http://www.math.bas.bg/infos/Ruse_2008.html
-[source-permmed]: http://http://hsin.hr/coci/
+[source-permmed]: http://hsin.hr/coci/
 [source-subsequences]: http://lightoj.com/volume_showproblem.php?problem=1125
 
 
