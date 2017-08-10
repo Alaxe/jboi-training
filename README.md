@@ -1,11 +1,11 @@
-#JBOI trainig 
+# JBOI trainig 
 This repository contains some of the tasks used for training the Bulgarian JBOI
 team. There were two training competitions each with three tasks and four hours
 long. The tasks aren't original, they are taken from other competitions or
 training websites. We have however translated the statements in bulgarian,
 created tests when needed and created example solutions.
 
-##Sources
+## Sources
 As mentioned before the tasks aren't authored by us.
 
 * Conference - [BOI 2016][source-conference] 
@@ -17,7 +17,7 @@ As mentioned before the tasks aren't authored by us.
 
 *Note:* LightOJ requires registration
 
-##Authors
+## Authors
 These tasks were translated and prepared for the training competitions by 
 Petar Nyagolov and Alexander Crustev.
 
