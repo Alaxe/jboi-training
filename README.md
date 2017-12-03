@@ -1,4 +1,4 @@
-# JBOI trainig 
+# JBOI training 
 This repository contains some of the tasks used for training the Bulgarian JBOI
 team. There were two training competitions each with three tasks and four hours
 long. The tasks aren't original, they are taken from other competitions or
